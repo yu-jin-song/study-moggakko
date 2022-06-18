@@ -1,3 +1,16 @@
+## 2022.06.18 토요일
+### 공부한 내용
+- Blazor WebAssembly
+    + PWA 기능이 추가된 템플릿 사용해서 테스트
+- https://www.oqtane.org/
+    + Blazor용 오픈소스 Framework 으로 보여서 찾아보기 시작
+### 공유하고 싶은 내용
+- [Progressive Web Applications](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%A0%88%EC%8B%9C%EB%B8%8C_%EC%9B%B9_%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98) 으로 사이트를 만들면 데스크탑 앱처럼 설치해서 실행 가능
+    + 윈도우가 아닌 운영체제 또는 모바일 환경에서도 브라우저가 지원한다면 사용 가능한 것으로 보임
+<br>
+
+---
+
 ## 2022.06.12 일요일
 ### 공부한 내용
 - [remote ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)(vscode 확장)
@@ -10,6 +23,7 @@
 <br>
 
 ---
+
 ## 2022.06.11 토요일
 ### 공부한 내용
 - [remote ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)(vscode 확장)
