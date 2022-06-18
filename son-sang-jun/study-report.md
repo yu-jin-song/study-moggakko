@@ -1,8 +1,7 @@
 ## 2022.06.18 토요일
 ### 공부한 내용
-#### 학급일지 프로젝트 작업 
-
-##### context-API를 활용 theme 변경 기능 구현
+- 학급일지 프로젝트 작업 
+	+ context-API를 활용 theme 변경 기능 구현
       - redux 와 context-API의 차이 
         + redux 는 store 하나만으로 여러 state를 관리 할 수 있다. 때문에 각 상태별로 Provider를 생성해서 사용하는 context-API에 비해 코드가 간결해진다. 하지만 provider를 활용해서 명시적으로 상태관리를 표시 해 주기 위해 redux를 활용하는 것 보다 context-API를 활용하는 것이 더 좋은 상황도 있다.
         + redux 에서 redux-devtool-extension 을 활 상태 관리 디버깅이 쉬워진다.
