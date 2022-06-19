@@ -10,6 +10,16 @@
       - context-API를 활용한 이유
         + 현재 진행한 프로젝트에서 redux를 활용하여 theme 상태관리와 이벤트 처리를 하는것 보다 context-API를 활용 하는 것이 코드 가독성이 더 좋다고 판단되어 context-API를 활용하기로 했다.
 ### 공유하고 싶은 내용
-> react를 활용하는 이유 와 front-end가 어떤 일을 하는지
+> react를 활용하는 이유
 
+1. react 활용하는 이유
 <br>
+<br>
+## 2022.06.19 일요일
+### 공부한 내용
+
+> 학급일지 프로젝트 작업 
+
+1. context-API를 활용 theme 변경 기능 구현
+      - grommet-icons theme provider와 custom theme provider와의 충돌
+        + 어떻게 해결해야 할지 방법 모색
