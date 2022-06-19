@@ -1,3 +1,17 @@
+## 2022.06.19 일요일
+### 공부한 내용
+- Blazor WebAssembly로 PWA 기능 확인
+    + 창의 사이즈를 조정하고 위치를 이동하고 닫았다가 다시 열어도 유지가 됨
+    + 오프라인 모드를 사용하려면 디버그모드 대신 서버에 배포해야함
+- Blazor WebAssembly 게시
+    + [GitHub Pages에 게시한 예제](https://github.com/SteveSandersonMS/BlazorOnGitHubPages) 소스 확인
+### 공유하고 싶은 내용
+- PWA 에서 제한 사항
+    + 창을 항상 맨 위에 표시하는 방법은 제공되지 않는 것으로 보임
+<br>
+
+---
+
 ## 2022.06.18 토요일
 ### 공부한 내용
 - Blazor WebAssembly
@@ -15,7 +29,7 @@
 ### 공부한 내용
 - [remote ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)(vscode 확장)
     + 연결설정 config 파일로 저장(https://code.visualstudio.com/blogs/2019/10/03/remote-ssh-tips-and-tricks#_ssh-configuration-file)
-- VSCode로 Remove Server 안의 Container에 접근하기
+- VSCode로 Remote Server 안의 Container에 접근하기
     + https://velog.io/@bismute/VSCode%EB%A1%9C-Remove-Server-%EC%95%88%EC%9D%98-Container%EC%97%90-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0 
 ### 공유하고 싶은 내용
 - [오라클 클라우드](https://cloud.oracle.com/) ssh로 연결할때 다운로드 받은 key 파일의 권한설정이 필요했다
