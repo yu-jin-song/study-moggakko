@@ -1,3 +1,24 @@
+## 2022.06.25 토요일
+### 공부한 내용
+- 사이드 프로젝트
+  + Spring Cloud
+    - MAS의 개발, 배포, 운영에 필요한 아키텍처를 쉽게 구성할 수 있도록 지원하는 Spring Boot 기반 프레임워크
+    - Eureka
+      + MSA의 서비스들의 목록과 위치(IP, Port)가 동적으로 변화하는 환경에서 서비스들을 효율적으로 관리하기 위한 [Service Discovery](https://kobumddaring.tistory.com/44) Server/Client
+### 공유하고 싶은 내용
+- Spring cloud
+  + https://honeywater97.tistory.com/205
+- 유레카 클라이언트 활성화 어노테이션
+
+  |항목|설명|
+  |:---|:---|
+  |**`@EnableEurekaClient`**|• `spring-cloud-commons` 기반<br>• 유레카 외에도 다른 클라이언트 구현체(consul, zookeeper) 등 지원|
+  |**`@EnableDiscoveryClient`**|• `spring-cloud-netflix` 기반<br>• 유레카만 지원|
+
+<br>
+
+---
+
 ## 2022.06.19 일요일
 ### 공부한 내용
 - velog 포스팅
