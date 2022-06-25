@@ -1,3 +1,15 @@
+## 2022.06.25 토요일
+### 공부한 내용
+- [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) 
+    + [구조](https://github.com/dotnet-architecture/eShopOnWeb/wiki/Getting-Started-for-Beginners#solution-structure)
+- [orchard core](https://orchardcore.net/)
+    + [1.4 버전](https://github.com/OrchardCMS/OrchardCore/tree/v1.4.0) 소스 확인
+### 공유하고 싶은 내용
+- [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) 은 MS에서 제공하는 aspnetcore 공식 샘플
+<br>
+
+---
+
 ## 2022.06.19 일요일
 ### 공부한 내용
 - Blazor WebAssembly로 PWA 기능 확인
