@@ -1,3 +1,23 @@
+## 2022.06.26 일요일
+### 공부한 내용
+- 사이드 프로젝트
+  + 로그인 구현
+### 공유하고 싶은 내용
+- Spring Security 
+  + `WebSecurityConfigurerAdapter` deprecated
+    - Spring Security 5.7.1 이상 또는 Spring Boot 2.7.0 이상 사용 시 IDEA에서 경고 출력
+    - 조치
+      + `WebSecurityConfigurerAdapter` 클래스의 메서드를 재정의하는 대신 `SecurityFilterChain` 및 `WebSecurityCustomizer` 빈 을 선언
+    - 참고
+      + https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter
+      + https://www.codejava.net/frameworks/spring-boot/fix-websecurityconfigureradapter-deprecated
+- DB 초기화 옵션
+  + `jpa.hibernate.ddl-auto` vs `jpa.properties.hibernate.hbm2ddl.auto`
+    - 동일한 옵션
+    - properties를 통해 접근하면 다른 Hibernate 기본 속성과 함께 설정 가능
+
+<br>
+
 ## 2022.06.25 토요일
 ### 공부한 내용
 - 사이드 프로젝트
