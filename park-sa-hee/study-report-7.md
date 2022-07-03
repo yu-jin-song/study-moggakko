@@ -1,3 +1,14 @@
+## 2022.07.03 일요일
+### 공부한 내용
+- [orchard core](https://orchardcore.net/)
+    + [OpenId 모듈](https://docs.orchardcore.net/en/latest/docs/reference/modules/OpenId/)
+    + https://github.com/OrchardCMS/OrchardCore.Samples Orchard Core Framework를 사용한 모듈식, 멀티 테넌트 샘플 소스 내용
+### 공유하고 싶은 내용
+- 없음
+<br>
+
+---
+
 ## 2022.07.02 토요일
 ### 공부한 내용
 - [orchard core](https://orchardcore.net/)
