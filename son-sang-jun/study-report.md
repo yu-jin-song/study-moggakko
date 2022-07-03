@@ -1,3 +1,19 @@
+## 2022.07.03 일요일
+### 공부한 내용
+
+> React Native 시작하기
+
+1. React Native 개발 환경 구성
+      - react native의 장점
+        + javascript library 인 react로 안드로이드와 ios 두 플랫폼 모두 개발 할 수 있다.
+        + react를 사용해 대상 플랫폼의 UI 라이브러리로 렌더링 할 수 있기 때문에, React 코드를 활용해 네이티브 환경과 비슷한 성능의 앱을 만들어 낼 수 있다.(가존의 webview에서의 단점을 해결한것이다.)
+      - react native의 단점
+        + react native 와 대상 플랫폼의 native 코드와의 사이에서 발생하는 문제의 디버깅이 쉽지 않다.
+        + 대상 플랫폼의 업데이트가 될때마다 API를 react native에서 곧바로 사용 할 수 없을 수 있다.(이럴 경우 하이브리드로 문제를 해결하기도 한다.)
+### 공유하고 싶은 내용
+> React Native 의 장 단점
+1. https://ssollacc.tistory.com/10
+
 ## 2022.07.02 토요일
 ### 공부한 내용
 
