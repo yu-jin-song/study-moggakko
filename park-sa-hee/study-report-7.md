@@ -1,3 +1,15 @@
+## 2022.07.09 토요일
+### 공부한 내용
+- [orchard core](https://orchardcore.net/)
+    + [용어들](https://docs.orchardcore.net/en/latest/docs/glossary/)
+    + [Getting Started](https://docs.orchardcore.net/en/latest/docs/getting-started/)
+    + [Create a modular application](https://docs.orchardcore.net/en/latest/docs/guides/create-modular-application-mvc/)
+### 공유하고 싶은 내용
+- 없음
+<br>
+
+---
+
 ## 2022.07.03 일요일
 ### 공부한 내용
 - [orchard core](https://orchardcore.net/)
