@@ -1,3 +1,12 @@
+## 2022.07.09 토요일
+### 공부한 내용
+- 사이드 프로젝트
+  + 로그인 구현
+    - [Annotation](https://github.com/yu-jin-song/study-moggakko/blob/master/song-yu-jin/reference/java/annotation.md)
+### 공유하고 싶은 내용
+
+--- 
+
 ## 2022.07.03 일요일
 ### 공부한 내용
 - 사이드 프로젝트
