@@ -1,3 +1,15 @@
+## 2022.07.10 일요일
+### 공부한 내용
+- [orchard core](https://orchardcore.net/)
+    + [Docker 사용](https://docs.orchardcore.net/en/latest/docs/topics/docker/)
+- [What is Docker BuildKit and What can I use it for?](https://brianchristner.io/what-is-docker-buildkit)
+### 공유하고 싶은 내용
+- docker 빌드 시간을 줄이기 위해서 BuildKit, buildx 등을 사용하기도 한다
+- oracle db 환경에서 orchard core 사용이 가능한지 확인이 필요하다
+<br>
+
+---
+
 ## 2022.07.09 토요일
 ### 공부한 내용
 - [orchard core](https://orchardcore.net/)
