@@ -1,3 +1,15 @@
+## 2022.07.09 토요일
+### 공부한 내용
+- [오라클 클라우드](https://cloud.oracle.com/)
+    + docker install
+- [orchard core](https://orchardcore.net/)
+    + [Running an Orchard Core Website in a Docker Container](https://www.orchardcore.io/blog/orchard-core-and-docker)
+### 공유하고 싶은 내용
+- unbuntu 에서 docker 설치 명령
+    + sudo snap install docker
+<br>
+
+---
 ## 2022.07.10 일요일
 ### 공부한 내용
 - [orchard core](https://orchardcore.net/)
