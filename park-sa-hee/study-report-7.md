@@ -1,4 +1,4 @@
-## 2022.07.09 토요일
+## 2022.07.16 토요일
 ### 공부한 내용
 - [오라클 클라우드](https://cloud.oracle.com/)
     + docker install
