@@ -1,3 +1,15 @@
+## 2022.07.17 일요일
+### 공부한 내용
+- ubuntu 에서 snap 으로 설치하고 docker 재시작후 동작 안함
+    + 재시작 방법이 기존과 다르게 해야하거나
+    + 버그 이거나로 추측
+### 공유하고 싶은 내용
+- docker를 스크립트로 받아서 설치하는 명령
+    + curl -fsSL https://get.docker.com/ | sudo sh
+<br>
+
+---
+
 ## 2022.07.16 토요일
 ### 공부한 내용
 - [오라클 클라우드](https://cloud.oracle.com/)
@@ -5,11 +17,12 @@
 - [orchard core](https://orchardcore.net/)
     + [Running an Orchard Core Website in a Docker Container](https://www.orchardcore.io/blog/orchard-core-and-docker)
 ### 공유하고 싶은 내용
-- unbuntu 에서 docker 설치 명령
+- ubuntu 에서 docker 설치 명령
     + sudo snap install docker
 <br>
 
 ---
+
 ## 2022.07.10 일요일
 ### 공부한 내용
 - [orchard core](https://orchardcore.net/)
