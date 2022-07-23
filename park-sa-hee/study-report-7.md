@@ -1,3 +1,16 @@
+## 2022.07.23 토요일
+### 공부한 내용
+- [orchard core](https://orchardcore.net/)
+- [오라클 클라우드](https://cloud.oracle.com/)
+    + docker로 orchard core 실행
+### 공유하고 싶은 내용
+- 오라클 클라우드에서 방화벽 설정 필요
+    + 수신규칙에 허용할 포트 지정
+    + ubuntu 에서 iptables 정책 추가
+<br>
+
+---
+
 ## 2022.07.17 일요일
 ### 공부한 내용
 - ubuntu 에서 snap 으로 설치하고 docker 재시작후 동작 안함
